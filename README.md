@@ -171,13 +171,14 @@ Do not send real funds to this prototype. Testnet deployment does not imply secu
 
 ## Project Credits
 
-FloodGuard was conceptualized and developed by **Pratik Pokhrel** as an independent proof-of-concept project. It reflects a personal motivation to do something constructive in response to flooding in Nepal and is not affiliated with an organization.
+Pratik Pokhrel and Shikhar Pandey
+
 
 ## License
 
 MIT License
 
-Copyright (c) 2026 Pratik Pokhrel
+Copyright (c) 2026 Pratik Pokhrel & Shikhar Pandey
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
